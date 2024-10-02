@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "In a small town, there are 8 clinics serving a population of 23,742. Estimate the number of people each clinic serves by rounding to the nearest thousand.",
+        "options": [
+            "300",
+            "700",
+            "800",
+            "230"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q2",
+        "question": "There are 38,412 students registered this year for the summer camp. There are about __________ fewer students than last year when there were 42,198 students. <br>(Round off to the nearest hundred)",
+        "options": [
+            "3,000",
+            "3,800",
+            "800",
+            "380"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3",
+        "question": "On average, 2,492 new bank accounts are opened daily. Approximately, _______ new bank accounts are opened in a week if rounded off to the nearest thousand.",
+        "options": [
+            "24,000",
+            "4,000",
+            "14,000",
+            "7,000"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q4",
+        "question": "In 2017, the highest number of ambulance calls in a month was 8,312. The lowest number of ambulance calls in a month was 731 times. The difference between the highest and lowest use in a month is about ______ calls when rounded to the nearest hundred.",
+        "options": [
+            "8,300",
+            "700",
+            "7,600",
+            "7,000"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q5",
+        "question": "The population of country 1 is 67,721 and of country 2 is 52,103. The approximate population of the two countries is________when rounded off to the nearest tens using the place value method.",
+        "options": [
+            "119,820",
+            "11,000",
+            "9,000",
+            "110,000"
+        ],
+        "correct": 0
+    }
+]
